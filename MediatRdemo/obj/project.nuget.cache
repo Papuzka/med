@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "l1uWh/H5LaCOr/oeg/CX8nEfb6B2gIXPIk6qP9g2pvmUg5uPfBP9CGbIVOyBb2MRHETttQRe2ttQcLiZjjAtxA==",
+  "success": true,
+  "projectFilePath": "E:\\dotnet-tutorials\\BlazorMediator\\MediatRdemo\\MediatRdemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adamb\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\adamb\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\adamb\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

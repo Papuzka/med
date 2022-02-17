@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36142ca5-16d2-47b2-96d2-99e592a222d8": {
+      "ProjectGuid": "36142ca5-16d2-47b2-96d2-99e592a222d8",
+      "DisplayName": "MediatRdemo",
+      "ColorIndex": 0
+    },
+    "d945f06c-3be9-4dfa-b449-9ddadc7f490c": {
+      "ProjectGuid": "d945f06c-3be9-4dfa-b449-9ddadc7f490c",
+      "DisplayName": "DemoLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

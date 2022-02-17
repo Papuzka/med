@@ -1,0 +1,12 @@
+E:\dotnet-tutorials\BlazorMediator\DemoLibrary\bin\Debug\net5.0\DemoLibrary.deps.json
+E:\dotnet-tutorials\BlazorMediator\DemoLibrary\bin\Debug\net5.0\DemoLibrary.dll
+E:\dotnet-tutorials\BlazorMediator\DemoLibrary\bin\Debug\net5.0\ref\DemoLibrary.dll
+E:\dotnet-tutorials\BlazorMediator\DemoLibrary\bin\Debug\net5.0\DemoLibrary.pdb
+E:\dotnet-tutorials\BlazorMediator\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.AssemblyReference.cache
+E:\dotnet-tutorials\BlazorMediator\DemoLibrary\obj\Debug\net5.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet-tutorials\BlazorMediator\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfoInputs.cache
+E:\dotnet-tutorials\BlazorMediator\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfo.cs
+E:\dotnet-tutorials\BlazorMediator\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.CoreCompileInputs.cache
+E:\dotnet-tutorials\BlazorMediator\DemoLibrary\obj\Debug\net5.0\DemoLibrary.dll
+E:\dotnet-tutorials\BlazorMediator\DemoLibrary\obj\Debug\net5.0\ref\DemoLibrary.dll
+E:\dotnet-tutorials\BlazorMediator\DemoLibrary\obj\Debug\net5.0\DemoLibrary.pdb

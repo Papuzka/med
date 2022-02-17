@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LNKtrzcDIykgudMXkBwo0pi4+xy9eeeWJKENd/+jAle0dFfJSLIuZPZztz5BeM/2IV65N0NixvqXRQalO3R/rA==",
+  "success": true,
+  "projectFilePath": "E:\\dotnet-tutorials\\BlazorMediator\\DemoLibrary\\DemoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adamb\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
